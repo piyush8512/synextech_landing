@@ -71,7 +71,7 @@ export function Footer() {
           brands to stand out in a crowded market. I believe in the power of
           design to tell stories, evoke emotions, and drive meaningful
           connections. I believe in quality, not quantity. Designali is actually
-          an agency of one. This means you'll work directly with me, founder of
+          an agency of one. This means you&apos;ll work directly with me, founder of
           Designali.
         </p>
       </div>
@@ -112,7 +112,7 @@ export function Footer() {
     <div className="w-full md:w-1/3 flex flex-col justify-center bg- text-black  rounded-lg">
       <h2 className="text-sm font-semibold">Stay connected</h2>
       <p className="text-xs text-black-400 mt-2">
-        Sign up to our mailing list below and be the first to know about new updates. Don't worry, we hate spam too.
+        Sign up to our mailing list below and be the first to know about new updates. Don&apos;t worry, we hate spam too.
       </p>
       <div className="mt-2 flex">
         <input

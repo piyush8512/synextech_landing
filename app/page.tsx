@@ -1,6 +1,3 @@
-import Image from "next/image";
-import { NavbarDemo } from "@/components/Navbar";
-
 import Hero from "@/components/landingpagecomp/Hero";
 import {HeroScrollDemo} from "@/components/landingpagecomp/HeroScrollDemo";
 import {Footer} from "@/components/Footer";
